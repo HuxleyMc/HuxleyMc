@@ -1,3 +1,5 @@
+![Code Muffin](./programming.gif)
+
 ### Hi there 👋
 
 <!--

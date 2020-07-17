@@ -1,4 +1,4 @@
-![Code Muffin](./programming.gif)
+![Code Muffin](https://github.com/HuxleyMc/HuxleyMc/blob/master/programming.gif)
 
 ### Hi there 👋
 

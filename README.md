@@ -1,4 +1,4 @@
-![Code Muffin](https://github.com/HuxleyMc/HuxleyMc/blob/master/programming.gif)
+[![Huxley's github stats](https://github-readme-stats.vercel.app/api?username=huxleymc)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hi there 👋
 

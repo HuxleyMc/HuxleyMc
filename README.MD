@@ -109,45 +109,7 @@ class Huxley : Developer() {
 
 ---
 
-## Featured nonsense
 
-### Steam-Spotify
-
-> Shows what song you're listening to on Steam.
-
-Because sometimes people need to know you are gaming while emotionally listening to Spotify.
-
-```txt
-Game: open
-Music: sad
-Presence: updated
-Vibe: immaculate
-```
-
-### gh-trending
-
-> API for fetching trending GitHub repositories and developers.
-
-For when you want to know what everyone else is building instead of finishing your own projects.
-
-```txt
-Trending repos found: 100
-Ideas stolen ethically: 7
-Projects completed: 0
-```
-
----
-
-## GitHub stats, also known as public shame
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HuxleyMc&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuxleyMc&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
 
 ## My development workflow
 

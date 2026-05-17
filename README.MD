@@ -110,24 +110,6 @@ class Huxley : Developer() {
 ---
 
 
-
-## My development workflow
-
-```mermaid
-flowchart TD
-    A[Have idea] --> B[Open IDE]
-    B --> C[Update dependencies]
-    C --> D[Everything explodes]
-    D --> E[Search error]
-    E --> F[Find GitHub issue from 2019]
-    F --> G[Comment says fixed in next release]
-    G --> H[Next release broke something else]
-    H --> I[Question reality]
-    I --> J[Ship anyway]
-```
-
----
-
 ## Things I say too often
 
 ```txt
@@ -139,35 +121,6 @@ flowchart TD
 "Oh. I wrote this."
 "React Native moment."
 "Gradle is doing Gradle things."
-```
-
----
-
-## `npm install personality`
-
-```json
-{
-  "name": "huxley",
-  "role": "mobile-developer",
-  "main": "probably/MainActivity.kt",
-  "scripts": {
-    "start": "open android studio and pray",
-    "build": "gradle assembleDebug --vibes",
-    "test": "pretend to write tests",
-    "deploy": "panic"
-  },
-  "dependencies": {
-    "kotlin": "latest-but-not-too-latest",
-    "typescript": "strict-until-annoying",
-    "react-native": "works-eventually",
-    "coffee": "peerDependency"
-  },
-  "devDependencies": {
-    "stack-overflow": "legacy",
-    "github-issues": "unstable",
-    "rubber-duck": "required"
-  }
-}
 ```
 
 ---
